@@ -1,4 +1,4 @@
-Vim Tmux Navigator
+FORK of Vim Tmux Navigator
 ==================
 
 This plugin is a repackaging of [Mislav Marohnić's](https://mislav.net/) tmux-navigator
